@@ -1,8 +1,5 @@
 # Particle Dynamics Simulation Project in C++
 
-## Authors
-- Mohammed Reda Belfaida
-- Mehdi El Oudghiri
 
 ## Project Overview
 
