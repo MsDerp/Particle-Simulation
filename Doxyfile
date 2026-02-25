@@ -1,0 +1,22 @@
+PROJECT_NAME           = "TP Simulation Particules"
+OUTPUT_DIRECTORY       = doc
+INPUT                  = include src test
+EXTRACT_STATIC         = YES
+CALLER_GRAPH           = YES
+
+RECURSIVE              = YES
+FILE_PATTERNS          = *.h *.hh *.hxx *.cxx *.cpp
+GENERATE_LATEX         = NO
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
+EXTRACT_LOCAL_METHODS  = YES
+CALL_GRAPH             = YES
+
+GENERATE_TREEVIEW      = YES
+HAVE_DOT               = YES
+DOT_PATH               = /usr/bin/dot
+
+QUIET                  = NO
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+
